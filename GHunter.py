@@ -31,8 +31,8 @@ stderr.writelines(f"""{Gr}
 / /_/ / __  / /_/ /___/ // /    / __  / /_/ / /|  / / / / /___/ _, _/ 
 \____/_/ /_/\____//____//_/    /_/ /_/\____/_/ |_/ /_/ /_____/_/ |_|
 
-          {Wh}[ + ]  C O D E   B Y  CYBERGEN  [ + ]  
-          {Wh}[ + ]  Follow ME ON X @Officialwhyte22 [ + ]
+          {Wh}[ + ]  C O D E   B Y  WINSTON IGHODARO  [ + ]
+          {Wh}[ + ]  FOLLOW ME ON X @Officialwhyte22 [ + ]
           
     {Wh}[ 1 ] {Gr}IP Tracker
     {Wh}[ 2 ] {Gr}Show Your IP
