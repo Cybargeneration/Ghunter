@@ -32,7 +32,8 @@ stderr.writelines(f"""{Gr}
 \____/_/ /_/\____//____//_/    /_/ /_/\____/_/ |_/ /_/ /_____/_/ |_|
 
           {Wh}[ + ]  C O D E   B Y  CYBERGEN  [ + ]  
-
+          {Wh}[ + ]  Follow ME ON X @Officialwhyte22 [ + ]
+          
     {Wh}[ 1 ] {Gr}IP Tracker
     {Wh}[ 2 ] {Gr}Show Your IP
     {Wh}[ 3 ] {Gr}Phone Tracker
